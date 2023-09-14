@@ -16,6 +16,8 @@
 
 - [Funcionalidad](#funcionalidad)
 
+- [Software de desarrollo](#software-de-desarrollo)
+
 - [Codigo fuente](#codigo-fuente)
 
 - [Abrir localmente](#abrir-localmente)
