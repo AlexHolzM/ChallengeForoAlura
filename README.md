@@ -83,7 +83,7 @@ También contará con búsquedas personalizadas como:
 
 ## Software de desarrollo
 
-   |<a href="https://www.java.com" target="_blank"> <img src="./imagenes_readme/JDK.svg" alt="JDK17-Java" width="100" hspace="10" vspace="10"/><strong>JDK 17.0.6</strong></a>|<a href="https://code.visualstudio.com/" target="_blank"> <img src="./imagenes_readme/vsCode.png" alt="VS Code" width="60" hspace="25"/><strong>VS Code IDE V 1.82</strong></a>|<a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr" target="_blank"> <img src="./imagenes_readme/spring-boot.png" alt="SpringBoot" width="100" hspace="25" vspace="10"/><strong>NB SpringBoot</strong></a>|
+   |<a href="https://www.java.com" target="_blank"> <img src="./imagenes_readme/JDK.svg" alt="JDK17-Java" width="100" hspace="10" vspace="10"/><strong>JDK 17.0.6</strong></a>|<a href="https://code.visualstudio.com/" target="_blank"> <img src="./imagenes_readme/vsCode.png" alt="VS Code" width="60" hspace="25"/><strong>VS Code IDE V 1.82</strong></a>|<a href="https://spring.io/" target="_blank"> <img src="./imagenes_readme/spring-boot.png" alt="SpringBoot" width="100" hspace="25" vspace="10"/><strong>NB SpringBoot</strong></a>|
    |------|------|------|
    |<a href="https://www.mysql.com/" target="_blank"> <img src="./imagenes_readme/MySQL-.png" alt="MySql" width="70" hspace="25" vspace="10"/><strong>MySQL 8.0.32</strong></a>|<a href="https://swagger.io/" target="_blank"> <img src="./imagenes_readme/Swagger.png" alt="Swagger" width="80" hspace="20" vspace="10"/><strong>Swagger</strong></a>|<a href="https://www.postman.com/" target="_blank"> <img src="./imagenes_readme/postman.svg" alt="Postman" width="90" hspace="10" vspace="10"/><strong>Postman</strong></a>|
 
