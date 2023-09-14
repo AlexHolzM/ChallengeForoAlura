@@ -67,17 +67,22 @@ También contará con búsquedas personalizadas como:
 ```
 
 <div align="center">
-<img src="./readme-img/token-generado.png" alt="Token generado" width="800" height="300"/>
+<img src="./imagenes_readme/token-generado.png" alt="Token generado" width="800" height="300"/>
 </div>
 
 - Buscar el botón authorize en la esquina superior derecha de la página e ingresar el token generado en autenticacion-controller.
 
 <div align="center">
-<img src="./readme-img/autenticacion.png" alt="Token generado" width="800" height="300"/>
+<img src="./imagenes_readme/autenticacion.png" alt="Token generado" width="800" height="300"/>
 </div>
 
 - Una vez autenticado podras usar cualquiera de los endpoints generados.
 </p>
+## Software de desarrollo
+
+   |<a href="https://www.java.com" target="_blank"> <img src="./imagenes_readme/JDK.svg" alt="JDK17-Java" width="100" hspace="10" vspace="10"/><strong>JDK 17.0.6</strong></a>|<a href="[https://netbeans.apache.org/](https://code.visualstudio.com/learn)" target="_blank"> <img src="./imagenes_readme/vsCode.svg" alt="VSCode" width="60" hspace="25"/><strong>VS Code IDE 14</strong></a>|<a href="https://marketplace.visualstudio.com/VSCode"> <img src="./imagenes_readme/spring-boot.png" alt="NB SpringBoot" width="100" hspace="25" vspace="10"/><strong>NB SpringBoot</strong></a>|
+   |------|------|------|
+   |<a href="https://www.mysql.com/" target="_blank"> <img src="./imagenes_readme/MySQL-.png" alt="MySql" width="70" hspace="25" vspace="10"/><strong>MySQL 8.0.32</strong></a>|<a href="https://swagger.io/" target="_blank"> <img src="./imagenes_readme/Swagger.png" alt="Swagger" width="80" hspace="20" vspace="10"/><strong>Swagger</strong></a>|<a href="https://www.postman.com/" target="_blank"> <img src="./imagenes_readme/postman.svg" alt="Postman" width="90" hspace="10" vspace="10"/><strong>Postman</strong></a>|
 
 ## Codigo fuente
 
